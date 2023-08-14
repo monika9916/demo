@@ -11,6 +11,7 @@ public class Berries {
     void juicy(String berry){
         this.berry = "rasp";
         System.out.println(berry + "berry");
+        System.out.println("testt");
     }
 
 }
